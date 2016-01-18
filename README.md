@@ -8,7 +8,7 @@ differnt look.
 
 As 01/18/2016, this file is still used in the Mobile/Table version of the website. You can get the file from the 
 link http://scache.vzw.com/search/staticContent/dist/js/autosuggest.js or check the source code of Verizon mobile website
-(make sure you will use mobile simulator or user agent). This file is not used in the desktop version of Verizon website.
+(make sure you will use mobile simulator or user agent). This file is no longer used in the desktop version of Verizon website now.
 
 I am not trying to disclose the source code I created for verizon. The current site search team put this file 
 to public without minified (not sure why), and  everyone can see this file directly from Verizon's website. I believe

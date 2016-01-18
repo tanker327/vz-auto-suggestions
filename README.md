@@ -16,7 +16,7 @@ it is fine for me to save a copy of my preview work here.
 
 Please let me know if anyone believe it is not proper to have a copy here, I will remove it. 
 
-Also, keep in mind this is the work I did at beginning of 2014. Now I can make this kind things way better even.
+Also, keep in mind this is the work I did at beginning of 2014 using only  JQuery + javascript 5. Now I can make this kind of things way better.
 
 Thanks!
 Eric 

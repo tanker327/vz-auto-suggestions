@@ -3,7 +3,7 @@
 I created this javascript file for verizon site search team to show the auto suggestions for the search box in the 
 top of each page in the Verizon website.
 This file was first released at 01/15/2014. Several updates was made as per new requirements in the next a few months.
-Depends on different configs, it works for all version or verizon's website (desktop/mobile/tablet) with part of 
+Depends on different configs, it works for all version of verizon's website (desktop/mobile/tablet) with part of 
 differnt look.
 
 As 01/18/2016, this file is still used in the Mobile/Table version of the website. You can get the file from the 
